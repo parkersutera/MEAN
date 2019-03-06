@@ -2,7 +2,6 @@
     display: block;
     margin-top: 1rem;
 }
-mat-form-field,
-textarea {
-    width: 100%;
+.post-text {
+    text-align: center;
 }
